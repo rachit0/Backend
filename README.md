@@ -27,8 +27,8 @@ Before running the project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/django-chat-app.git
-https://github.com/rachit0/Backend.git
+
+git clone https://github.com/rachit0/Backend.git
 
 ```
 use chat.html page which was in chat application and run it on server with /chat.html to see the running application
