@@ -52,6 +52,9 @@ def lambda_handler(event, context):
         })
     }
 ```
+
+
+``` AWS Lambda function
 2. AWS function to store document or pdf in s3 bucket
 
 import json
