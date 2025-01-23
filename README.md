@@ -28,5 +28,6 @@ Before running the project, make sure you have the following installed:
 
 ```bash
 git clone https://github.com/yourusername/django-chat-app.git
+https://github.com/rachit0/Backend.git
 
 
